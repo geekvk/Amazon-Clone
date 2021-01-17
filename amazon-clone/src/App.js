@@ -57,7 +57,7 @@ function App() {
             <Payment />
             </Elements>
             </Route>  
-            <Route path="/">npm i
+            <Route path="/">
             <Header />
               <Home />
             </Route>        
